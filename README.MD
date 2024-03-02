@@ -35,7 +35,7 @@ Com isso sabemos que precisamos de um resistor de 300ohmns, mas agora qual é es
 
 ### Entendendo os resistores
 <div align="center">
-  <img src="./cores%20resistores%20base.jpeg" width="300" height="100">
+  <img src="./cores%20resistores%20base.jpeg" width="500" height="400">
 </div>
 
 Seguindo essa tabela, a lógica é bem simples basta:
