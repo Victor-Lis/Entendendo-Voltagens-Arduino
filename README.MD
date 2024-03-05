@@ -50,3 +50,9 @@ Precisariamos da seguinte sequência:
   OHMS = 30 x 10
   OHMS = 300
 ```
+
+Pronto, apenas com isso é possível entender um pouco mais sobre esse cálculo de qual é a voltagem que precisa ser abatida e como escolher o resistor certo!
+
+## Autores
+
+- [@Victor-Lis](https://github.com/Victor-Lis)
