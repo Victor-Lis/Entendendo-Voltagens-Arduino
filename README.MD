@@ -53,6 +53,8 @@ Precisariamos da seguinte sequência:
 
 Pronto, apenas com isso é possível entender um pouco mais sobre esse cálculo de qual é a voltagem que precisa ser abatida e como escolher o resistor certo!
 
+Acredito ter aprendido bastante no decorrer dos estudos e desenvolvimento desse pequeno arquivo, também desenvolvi após esse projeto para calcular o resistor a partir das cores ou descobrir o resistor adequado para certa quantia de ohms, se quiser ver deixo o [link aqui](https://github.com/Victor-Lis/Resistor-Calculator-App).
+
 ## Autores
 
 - [@Victor-Lis](https://github.com/Victor-Lis)
